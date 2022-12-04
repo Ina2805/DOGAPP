@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DOGAPP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Breeds</string>
+    <string name="menu_gallery">Favourites</string>
+    <string name="menu_slideshow">Something</string>
+    <string name="menu_training">Training</string>
+
+    <string-array name="training_array">
+        <item>Alpha Training</item>
+        <item>Clicker Training</item>
+        <item>Electronic Training</item>
+        <item>Mirror Training</item>
+        <item>Positive Training</item>
+        <item>Relationship Training</item>
+        <item>Scientific Training</item>
+        <item>Scientific Training</item>
+        <item>Scientific Training</item>
+    </string-array>
+
+   <string-array name="descriptions_array">
+        <item> Alpha dog training methods, also referred to as dominance training, rely on the theory that dogs are pack animals, much like their wolf ancestors. As pack animals, they need a strong “alpha” leader to establish boundaries and help them understand their place in the pack</item>
+        <item>Clicker training is a type of reward based training where a clicker is used to tell your dog that they have done the right thing. Clicker training works because your dog learns to associate one thing (the click) with another (the reward such as a treat). Eventually the clicker itself becomes a reward.</item>
+        <item>Shock collars are also known as dog training collars, e-collars, or electronic collars. These training devices work by first giving your dog a warning beep or vibration, which is followed by a remote shock if he doesnt stop the bad behavior.</item>
+        <item>Mirror Method training incorporates positive reinforcement through the use of a clicking device. It is called the "Mirror Method" because the trainer teaches the dog by encouraging it to mimic his or her actions.</item>
+        <item>Positive reinforcement training uses a reward (treats, praise, toys, anything the dog finds rewarding) for desired behaviors. Because the reward makes them more likely to repeat the behavior, positive reinforcement is one of your most powerful tools for shaping or changing your dogs behavior.</item>
+        <item> It is a method of training that uses the cooperative relationship between the trainer and the animal to achieve mutually beneficial results, while at the same time enhancing and strengthening their relationship.</item>
+        <item>In a scientific approach to dog training, rewards are given for appropriate or desired behaviors, but, unlike the strictly positive reinforcement method where bad behavior is ignored, if an inappropriate or undesired behavior is performed, rewards are taken away.</item>
+        <item>In a scientific approach to dog training, rewards are given for appropriate or desired behaviors, but, unlike the strictly positive reinforcement method where bad behavior is ignored, if an inappropriate or undesired behavior is performed, rewards are taken away.</item>
+        <item>In a scientific approach to dog training, rewards are given for appropriate or desired behaviors, but, unlike the strictly positive reinforcement method where bad behavior is ignored, if an inappropriate or undesired behavior is performed, rewards are taken away.</item>
+    </string-array>
+
+</resources>
