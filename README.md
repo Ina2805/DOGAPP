@@ -2,7 +2,7 @@
 
 This application was inspired by my dog, of course the first dog in the dog list. 
 It is supposed to show all the dog breeds and make a user save those interesting ones, and see the methods of training dogs. 
-In the future it would have videos and pictures, that users could share between eachother. 
+In the future it would have videos of me training a certain trick. 
 
 
 Requirements: 
