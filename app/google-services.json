@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "543914024775",
+    "project_id": "signin-dogapp",
+    "storage_bucket": "signin-dogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543914024775:android:f7e2d2e242e769a277b662",
+        "android_client_info": {
+          "package_name": "com.example.dogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543914024775-oge866u18v6q8udtd1l83eu154b6vnuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7OqyNE8zZCbHzIAvwc-cu3soBSJGnEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543914024775-oge866u18v6q8udtd1l83eu154b6vnuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543914024775:android:e8058ec15156c98a77b662",
+        "android_client_info": {
+          "package_name": "com.example.myapplication1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543914024775-oge866u18v6q8udtd1l83eu154b6vnuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7OqyNE8zZCbHzIAvwc-cu3soBSJGnEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543914024775-oge866u18v6q8udtd1l83eu154b6vnuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

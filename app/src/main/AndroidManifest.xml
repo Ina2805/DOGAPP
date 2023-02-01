@@ -13,7 +13,7 @@
         android:theme="@style/Theme.DOGAPP"
         tools:targetApi="31">
         <activity
-            android:name=".ui.about.AboutActivity"
+            android:name=".ui.description.DescriptionActivity"
             android:parentActivityName=".ui.training.TrainingActivity"
 
         android:exported="false">
@@ -34,12 +34,35 @@
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.DOGAPP.NoActionBar">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.logout.LogoutActivity"
+            android:parentActivityName=".MainActivity"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:parentActivityName=".MainActivity"
+            android:exported="true">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
+        </activity>
+        <activity
+            android:name=".ui.register.RegisterActivity"
+            android:parentActivityName=".MainActivity"
+            android:exported="true">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />

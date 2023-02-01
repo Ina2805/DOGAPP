@@ -11,6 +11,17 @@
     <string name="menu_gallery">Favourites</string>
     <string name="menu_slideshow">Something</string>
     <string name="menu_training">Training</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="register_here">Register here</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="my_dog_application">My dog application</string>
+    <string name="about">About</string>
 
     <string-array name="training_array">
         <item>Alpha Training</item>

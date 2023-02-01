@@ -6,14 +6,12 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
-import android.widget.Toast;
 
 import com.example.dogapp.R;
 import com.example.dogapp.data.TrainingAdapter.TrainingInterface;
 import com.example.dogapp.data.TrainingAdapter.TrainingAdapter;
 import com.example.dogapp.model.TrainingModel;
-import com.example.dogapp.ui.about.AboutActivity;
+import com.example.dogapp.ui.description.DescriptionActivity;
 
 import java.util.ArrayList;
 
@@ -50,6 +48,7 @@ public class TrainingActivity extends AppCompatActivity implements TrainingInter
     {
         String[] trainingNames = getResources().getStringArray(R.array.training_array);
         String[] desc = getResources().getStringArray(R.array.descriptions_array);
+
         for (int i = 0; i <trainingNames.length; i++)
         {
             trainingModels.add(new TrainingModel(trainingNames[i],
@@ -60,7 +59,7 @@ public class TrainingActivity extends AppCompatActivity implements TrainingInter
     @Override
     public void onItemClick(int position) {
 
-        Intent intent = new Intent(TrainingActivity.this, AboutActivity.class);
+        Intent intent = new Intent(TrainingActivity.this, DescriptionActivity.class);
 
         intent.putExtra("IMAGE", trainingModels.get(position).getImage());
         intent.putExtra("NAME", trainingModels.get(position).getName());

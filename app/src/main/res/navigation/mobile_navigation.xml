@@ -28,4 +28,10 @@
         android:name="com.example.dogapp.ui.training.TrainingActivity"
         android:label="@string/menu_training"
         tools:layout="@layout/activity_training" />
+    <activity
+        android:id="@+id/nav_logout"
+        android:name="com.example.dogapp.ui.logout.LogoutActivity"
+        android:label="@string/logout"
+        tools:layout="@layout/activity_logout"/>
+
 </navigation>
