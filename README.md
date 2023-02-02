@@ -13,3 +13,8 @@ Requirements:
 - As a user I want to be able to see the description about dog training in order to decide which one I like. 
 - As a user I want to be able to see videos of types of dog training methods in order for me to decide which one I like. 
 - As a user I want to be able to read more about a certain dog breed in order to inform myself more. 
+
+
+All the requirements were made except the last two. 
+
+https://youtu.be/J3Ypafdc84Y
