@@ -16,13 +16,6 @@
         android:name="com.example.dogapp.ui.favourites.GalleryFragment"
         android:label="@string/menu_gallery"
         tools:layout="@layout/fragment_gallery" />
-
-    <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.dogapp.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
-
     <activity
         android:id="@+id/nav_training"
         android:name="com.example.dogapp.ui.training.TrainingActivity"
@@ -33,5 +26,10 @@
         android:name="com.example.dogapp.ui.logout.LogoutActivity"
         android:label="@string/logout"
         tools:layout="@layout/activity_logout"/>
+    <activity
+        android:id="@+id/nav_about"
+        android:name="com.example.dogapp.ui.about.AboutActivity"
+        android:label="@string/about"
+        tools:layout="@layout/activity_about"/>
 
 </navigation>

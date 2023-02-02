@@ -22,6 +22,7 @@
     <string name="click_here_to_login">Click here to login</string>
     <string name="my_dog_application">My dog application</string>
     <string name="about">About</string>
+    <string name="hello_i_am_ina">hello i am ina</string>
 
     <string-array name="training_array">
         <item>Alpha Training</item>
@@ -35,7 +36,7 @@
         <item>Scientific Training</item>
     </string-array>
 
-   <string-array name="descriptions_array">
+    <string-array name="descriptions_array">
         <item> Alpha dog training methods, also referred to as dominance training, rely on the theory that dogs are pack animals, much like their wolf ancestors. As pack animals, they need a strong “alpha” leader to establish boundaries and help them understand their place in the pack</item>
         <item>Clicker training is a type of reward based training where a clicker is used to tell your dog that they have done the right thing. Clicker training works because your dog learns to associate one thing (the click) with another (the reward such as a treat). Eventually the clicker itself becomes a reward.</item>
         <item>Shock collars are also known as dog training collars, e-collars, or electronic collars. These training devices work by first giving your dog a warning beep or vibration, which is followed by a remote shock if he doesnt stop the bad behavior.</item>
@@ -46,5 +47,7 @@
         <item>In a scientific approach to dog training, rewards are given for appropriate or desired behaviors, but, unlike the strictly positive reinforcement method where bad behavior is ignored, if an inappropriate or undesired behavior is performed, rewards are taken away.</item>
         <item>In a scientific approach to dog training, rewards are given for appropriate or desired behaviors, but, unlike the strictly positive reinforcement method where bad behavior is ignored, if an inappropriate or undesired behavior is performed, rewards are taken away.</item>
     </string-array>
+
+    <string name="aboutMe">My name is Ina, and this is Schatzi. I am a student in VIA University, but I am not only a student, as my hoby I do dog traning. Schatzi is my life companion, she means the world to me, and everywhere I go, she goes with me. We have learned many, many tricks and it is always fun to see her learning new tricks since it activates her brain and keeps her on her toes.</string>
 
 </resources>
